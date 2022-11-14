@@ -1,3 +1,8 @@
-# This is an <h1> header, which is the largest
-## This is an <h2> header
-###### This is an <h6> header, which is the smallest
+# <h1> This is an  header, which is the largest
+##  <h2> This is an  header
+# <h3> This is an  header, which is the smallest
+# <h4> This is an  header, which is the smallest
+# <h5> This is an  header, which is the smallest
+# <h6> This is an  header, which is the smallest
+
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
