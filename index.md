@@ -6,3 +6,10 @@
 # <h6> This is an  header, which is the smallest
 
   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  
+ ```
+ let name = "Mihretab";
+ if (name === "Mihretab"){
+  console.log("you are correct");
+ }
+ ```
