@@ -13,3 +13,6 @@
   console.log("you are correct");
  }
  ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
